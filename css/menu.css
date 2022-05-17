@@ -52,4 +52,9 @@ nav.navbar {
     }
     .nav-link:hover{color: white;}
     .navbar-brand:hover{color: white;}
-    
+
+    .contador_acessos
+    {
+        visibility: hidden;
+        display: none;
+    }
